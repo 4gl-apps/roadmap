@@ -46,13 +46,13 @@ The roadmap is arranged on a project board to give a sense for how far out each 
 
 The following is a list of our current product areas:
 
-- **Data Controller:** Reference table management for Regulated Industries
+- **Data Controller:** Reference table handling for Regulated Industries
 - **Sasensei:** Quiz game for SAS Geeks with 5000+ players
-- **SASjs Adapter:** Javascript Library for SAS Authentication & Communication
-- **SASjs CLI:** NodeJS Command Line Tool for SAS DevOps and Documentation
-- **SASjs Core:** SAS Macro Library for Application Developers
-- **SASjs Lint:** For quality checking SAS code before it hits a GIT commit
-- **SASjs Seed Apps:** Quick start projects for Angular, React, and Vanilla JS
+- **SASjs Adapter:** For SAS Authentication & Communication
+- **SASjs CLI:** For SAS DevOps and Documentation
+- **SASjs Core:** Macro Library for Application Developers
+- **SASjs Lint:** Quality check SAS code before hitting GIT commits
+- **SASjs Seed Apps:** Quick starts for Angular, React, and Vanilla JS
 - **SASjs Server:** Build Apps on Base SAS
 - **SASjs VS Code Extension:** Build SAS Apps in VS Code
 
