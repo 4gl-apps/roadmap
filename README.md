@@ -1,6 +1,6 @@
 # 4GL Apps public roadmap
 
-:sparkle: View the [official 4GL Apps public product roadmap](https://github.com/orgs/4gl-apps)
+:sparkle: View the [official 4GL Apps public product roadmap](https://github.com/orgs/4gl-apps/projects/2/views/1?layout=board)
 
 Our product roadmap is where you can learn about what features we're working on, what stage they're in, and when we expect to bring them to you. Have any questions or comments about items on the roadmap? [Share your feedback](https://github.com/4gl-apps/feedback/discussions/1)!
 
